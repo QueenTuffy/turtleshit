@@ -1,7 +1,8 @@
 from turtle import*
 shape("turtle")
 speed(10)
-pencolor("white")
+
+pencolor("red")
 Screen().bgcolor("turquoise")
 def vshape():
     right(25)
